@@ -1,4 +1,8 @@
-Reframe Homebrew Repo
+Ansvia's Homebrew Repo
 ==========
 
-Homebrew repository for [Reframe](https://github.com/Ansvia/reframe).
+Homebrew repository for development tools in Ansvia.
+
+Registry:
+
+* [Reframe](https://github.com/Ansvia/reframe)
